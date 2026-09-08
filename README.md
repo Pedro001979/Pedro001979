@@ -1,71 +1,89 @@
 # Pedro Ricardo
 
-### QA Automation Engineer | JavaScript | Web • API • Mobile • Performance
+### Engenheiro de Automação de Testes | JavaScript | Web • API • Mobile • Performance
 
-I build automated tests that improve software quality, reduce regression risk, and give development teams faster feedback.
+Sou profissional de tecnologia com foco em **QA Automation**, desenvolvimento de testes automatizados e garantia da qualidade de software.
 
-My background in software development helps me approach QA with an engineering mindset: reusable automation, maintainable test architecture, clear reporting, and CI/CD-ready workflows.
+Minha experiência em desenvolvimento me permite atuar em QA com uma visão de engenharia: criando automações reutilizáveis, estruturas de testes organizadas, validações confiáveis, relatórios claros e fluxos preparados para integração contínua.
 
-## 🧪 What I work with
+Meu objetivo é transformar testes em uma ferramenta de **confiança, velocidade e prevenção de problemas** durante o desenvolvimento de software.
 
-**Web & E2E**  
-Cypress • WebdriverIO • Selenium • Page Object Model • E2E Testing
+## 🧪 Principais tecnologias
 
-**API & Backend**  
-PactumJS • GraphQL • REST • API Testing • Contract-oriented validation
+**Automação Web e E2E**  
+Cypress • WebdriverIO • Selenium • Page Object Model • Testes E2E • Testes de Regressão
 
-**Mobile**  
+**Testes de API**  
+PactumJS • GraphQL • REST • Autenticação • Validação de respostas
+
+**Automação Mobile**  
 Appium • WebdriverIO • Android • UiAutomator2
 
-**Performance**  
-k6 • JMeter • Load Testing • Performance Analysis
+**Testes de Performance**  
+k6 • JMeter • Testes de carga • Análise de desempenho
 
-**Test Design**  
-BDD • Gherkin • Mocha • Jest • Test Scenarios • Regression Testing
+**Desenvolvimento e Testes**  
+JavaScript • Node.js • Mocha • Jest • Gherkin • BDD
 
-**Engineering & CI/CD**  
-JavaScript • Node.js • Git • GitHub Actions • Docker
+**DevOps e CI/CD**  
+Git • GitHub Actions • Docker • Integração contínua
 
-## 🚀 Featured projects
+## 🚀 Projetos em destaque
 
 ### [Cypress Test Suite](https://github.com/Pedro001979/cypress-test-suite)
-End-to-end UI automation with Cypress, network interception, multi-tab scenarios and Mochawesome reporting.
+Automação de testes End-to-End com Cypress, interceptação de requisições, cenários com múltiplas abas e geração de relatórios com Mochawesome.
 
-### [API Test Automation — GraphQL + PactumJS](https://github.com/Pedro001979/ATD-API)
-API automation focused on authenticated GraphQL flows, reusable setup and response validation with PactumJS and Mocha.
+### [Automação de API — GraphQL + PactumJS](https://github.com/Pedro001979/ATD-API)
+Automação de APIs com foco em fluxos autenticados, GraphQL, reutilização de configurações e validação de respostas utilizando PactumJS e Mocha.
 
-### [Mobile Test Automation — EBAC Shop](https://github.com/Pedro001979/ATD_Mod17-Mobile)
-Android automation using Appium, WebdriverIO and UiAutomator2, structured with Page Objects and CI-oriented execution.
+### [Automação Mobile — EBAC Shop](https://github.com/Pedro001979/ATD_Mod17-Mobile)
+Automação de aplicação Android utilizando Appium, WebdriverIO e UiAutomator2, com organização baseada em Page Objects e estrutura preparada para execução em CI.
 
-### [Performance Tests](https://github.com/Pedro001979/performance-tests)
-Backend and performance-focused project combining automated testing with a Node/NestJS ecosystem and supporting tools.
+### [Testes de Performance](https://github.com/Pedro001979/performance-tests)
+Projeto voltado a testes de backend e performance, explorando um ecossistema baseado em Node.js/NestJS e ferramentas de apoio à qualidade e desempenho.
 
-### [UI Automation](https://github.com/Pedro001979/Automacao-de-UI)
-Reusable UI automation demonstrating maintainable test structure and practical QA automation patterns.
+### [Automação de UI](https://github.com/Pedro001979/Automacao-de-UI)
+Projeto de automação de interfaces com foco em organização, reutilização de componentes e aplicação de boas práticas de automação de testes.
 
-### [BDD & Gherkin](https://github.com/Pedro001979/ATD_Mod08-Gherkin)
-Behavior-driven test design using Gherkin to translate business requirements into executable testing scenarios.
+### [BDD e Gherkin](https://github.com/Pedro001979/ATD_Mod08-Gherkin)
+Aplicação de BDD e Gherkin para transformar requisitos de negócio em cenários de teste claros, estruturados e orientados ao comportamento do sistema.
 
-## 🎯 QA Engineering focus
+## 🎯 Competências em QA
 
-- Automation architecture and maintainability
-- End-to-end and regression testing
-- API and GraphQL validation
-- Mobile application testing
-- Test data and reusable test flows
-- Reporting and test evidence
-- CI/CD automation
-- Performance and load testing
+- Automação de testes Web, API e Mobile
+- Testes End-to-End e de regressão
+- Testes funcionais e validação de requisitos
+- Testes de API REST e GraphQL
+- Testes de carga e performance
+- Arquitetura de automação e Page Object Model
+- Geração e análise de evidências e relatórios
+- Integração de testes em pipelines CI/CD
+- Organização e reutilização de cenários de teste
+- BDD, Gherkin e definição de cenários
 
-## 📌 Currently building
+## 🛠️ Como penso em qualidade
 
-A stronger automation portfolio focused on **quality engineering, scalable test automation and continuous testing** across Web, API, Mobile and Performance.
+**Prevenção antes de correção** — identificar riscos o mais cedo possível.
 
-## 📫 Connect with me
+**Automação com propósito** — automatizar o que gera retorno real para o projeto.
+
+**Manutenibilidade** — testes precisam ser fáceis de entender, executar e evoluir.
+
+**Feedback rápido** — integrar testes ao desenvolvimento para reduzir o tempo entre mudança e validação.
+
+**Visão de engenharia** — qualidade não é apenas encontrar bugs; é construir processos e automações que aumentem a confiabilidade do software.
+
+## 📚 Atualmente desenvolvendo
+
+Estou expandindo meu portfólio em **Quality Engineering e QA Automation**, aprofundando automação Web, API, Mobile, Performance e integração contínua.
+
+## 📫 Vamos nos conectar
 
 - **GitHub:** [Pedro001979](https://github.com/Pedro001979)
 - **LinkedIn:** [Pedro Ricardo](https://www.linkedin.com/in/pedro-ricardo-6a3b76236/)
 
 ---
 
-*QA Automation Engineer focused on turning software quality into an engineering practice.*
+### 🚀 QA Automation | JavaScript | Cypress | API | Appium | Performance | CI/CD
+
+*Qualidade de software com mentalidade de engenharia.*
